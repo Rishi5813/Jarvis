@@ -1,7 +1,6 @@
 # This is the File which contains all the Questions and Replies of Jarvis 
 # This is the Male voiced Jarvis.
-# This Project is made and maintained by Rishi Jani. Each and every line Of the code is Written 
-# By Rishi Jani.
+# This Project is made and maintained by Rishi Jani.
 
 # Jarvis is a A.I. for All Cross Platforms.
 # No-One Can use This Code for Harmful Purposes.
