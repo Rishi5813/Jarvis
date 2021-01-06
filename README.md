@@ -37,4 +37,8 @@ The Required Dependencies and Modules are :
 Once the Dependencies are cleared, you should go into the directory and write a command "python Jarvis.py".
 
 After This Jarvis will open a command Window. Now you can use and Give Commands to the A.I., I hope that you all will like
-Jarvis.
+Jarvis. You can give Comments in the issues section, but give a "#comment" tag before the comment.
+
+
+Thanking You,
+Rishi Jani
