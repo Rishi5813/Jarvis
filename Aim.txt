@@ -1,0 +1,17 @@
+TO_DO LIST
+
+* Any Sport scores
+* Songs
+* Faster
+* Cross Platform (maybe Kivy)
+* server
+* https
+* Publish to Github                
+  Profile !
+* Run Regular tests and 
+  make the A.I. more 
+  Efficient.
+* Provide more Updates and                          
+  Make Jarvis more  
+  understandable and 
+  Intelligent.
